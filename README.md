@@ -1,2 +1,2 @@
 # chrome-themes
-Themes for chrome browser
+The easiest stuff you can do!
